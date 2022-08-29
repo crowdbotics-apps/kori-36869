@@ -20,6 +20,7 @@
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/order-checkout": "file:./screens/order-checkout/",
     "@screens/shopping-cart": "file:./screens/shopping-cart/",
+    "@screens/signup": "file:./screens/signup/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
