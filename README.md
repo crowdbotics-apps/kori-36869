@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-chat](modules/chat)
 - [screen-order-checkout](screens/order-checkout)
+- [screen-shopping-cart](screens/shopping-cart)
 
 # Getting started: Frontend
 
