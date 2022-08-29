@@ -1,10 +1,12 @@
 import React from "react";
 import { Text, StyleSheet, View } from "react-native";
 
-const OrderCheckoutScreen = params => {
-  return <View style={styles.container}>
+const OrderCheckoutScreen = (params) => {
+  return (
+    <View style={styles.container}>
       <Text style={styles.headingTxt}>Order Checkout Screen</Text>
-    </View>;
+    </View>
+  );
 };
 
 const styles = StyleSheet.create({
@@ -20,4 +22,5 @@ const styles = StyleSheet.create({
     marginVertical: 12
   }
 });
+
 export default OrderCheckoutScreen;
